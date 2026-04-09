@@ -1,10 +1,5 @@
 # 🌐 Block Explorer
-
-[![Live Demo](https://img.shields.io/badge/demo-online-success.svg)](https://phx-codes.github.io/BlockExplorer/)
-
 > **Viktigt:** För att använda appen behöver du ha **MetaMask** installerat och vara ansluten till **Sepolia Test Network**.
-
----
 
 Det här är en enkel frontend-applikation för att interagera med Ethereum-blockkedjan. Jag har byggt den med JavaScript och biblioteket Ethers.js (v6). 
 
